@@ -1,4 +1,10 @@
 # Sites For Basic Excel Spreadsheet Troubleshooting
+Those websites shows way to truobleshoot an excel spreadsheet such as
+- Repairing damged/corrupted files.
+- adds-ins might cause some problems.
+- Some issue with startup folders.
+- Check if the latest version is installed.
+- Turn on automatic backups for files.
 
 [Link 1](https://support.microsoft.com/en-us/office/excel-not-responding-hangs-freezes-or-stops-working-37e7d3c9-9e84-40bf-a805-4ca6853a1ff4)
 
