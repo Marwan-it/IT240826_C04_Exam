@@ -5,7 +5,8 @@ Those websites explains and showcase how to navigate through windows user interf
 - That you can have multiple desktops and windows open at the same time.
 - Pin the most used applications to the start menu.
 - Customize the inteface (colors, images, fonts).
-- Setting up dark mode
+- Setting up dark mode.
+  
 [Link1](https://www.informit.com/articles/article.aspx?p=2437429)
 
 [Link2](https://www.pcworld.com/article/1782303/5-crucial-windows-11-settings-you-need-to-change-asap.html)
