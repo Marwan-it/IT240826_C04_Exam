@@ -4,7 +4,8 @@ Those websites list most of the common mistakes that happen when writting formul
 and the most errors and the solution for them such as
 - typing incorrect formula
 - selecting the wrong cells
-- 
+- reference to a cell is invali
+found those websites helpfull and explains in a good way
 
 [Link 1](https://www.goskills.com/Excel/Resources/Excel-errors#:~:text=Common%20Excel%20errors%20include%20%23DIV,Evaluate%20Formula%20and%20Error%20Checking.)
 
